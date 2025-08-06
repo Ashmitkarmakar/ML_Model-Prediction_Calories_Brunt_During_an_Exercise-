@@ -1,0 +1,91 @@
+Exercise_Type,Light Intensity,Moderate Intensity,High Intensity
+Running,4.9,9.8,14.7
+Walking,1.75,3.5,5.25
+Jogging,3.5,7,10.5
+Cycling (Outdoor),4,8,12
+Cycling (Indoor),3.5,7,10.5
+Swimming,4.15,8.3,12.45
+Jump Rope,6.15,12.3,18.45
+Rowing,3.5,7,10.5
+Elliptical,2.5,5,7.5
+Treadmill,3,6,9
+Hiking,3,6,9
+Zumba,2.75,5.5,8.25
+Aerobics,2.5,5,7.5
+Dance Cardio,3.25,6.5,9.75
+Stair Climber,4.4,8.8,13.2
+Kickboxing,4,8,12
+Rollerblading,3.5,7,10.5
+Skating,2.75,5.5,8.25
+Mountain Biking,4.25,8.5,12.75
+Step Aerobics,3.25,6.5,9.75
+Bench Press,3,6,9
+Incline Bench Press,3,6,9
+Decline Bench Press,3,6,9
+Barbell Squats,3.25,6.5,9.75
+Dumbbell Squats,3,6,9
+Deadlifts,3.5,7,10.5
+Sumo Deadlifts,3.5,7,10.5
+Romanian Deadlifts,3.4,6.8,10.2
+Lunges,2.9,5.8,8.7
+Step Ups,2.75,5.5,8.25
+Overhead Press,3,6,9
+Push Press,3.25,6.5,9.75
+Arnold Press,3,6,9
+Lateral Raises,2.5,5,7.5
+Front Raises,2.5,5,7.5
+Barbell Rows,3,6,9
+Dumbbell Rows,2.9,5.8,8.7
+T-Bar Rows,3,6,9
+Pull-ups,4,8,12
+Chin-ups,3.9,7.8,11.7
+Bicep Curls,1.75,3.5,5.25
+Hammer Curls,1.75,3.5,5.25
+Concentration Curls,1.75,3.5,5.25
+Tricep Dips,2,4,6
+Tricep Pushdowns,1.75,3.5,5.25
+Skull Crushers,1.75,3.5,5.25
+Overhead Tricep Extensions,1.75,3.5,5.25
+Preacher Curls,1.75,3.5,5.25
+Cable Curls,1.75,3.5,5.25
+Cable Kickbacks,1.75,3.5,5.25
+Sit-ups,2,4,6
+Crunches,2,4,6
+Russian Twists,2.25,4.5,6.75
+Plank,1.65,3.3,4.95
+Side Plank,1.65,3.3,4.95
+Mountain Climbers,4,8,12
+Leg Raises,2,4,6
+Bicycle Crunches,2.25,4.5,6.75
+Hanging Leg Raises,2.25,4.5,6.75
+Ab Rollouts,2.5,5,7.5
+Burpees,5,10,15
+Jump Squats,4,8,12
+High Knees,4,8,12
+Butt Kicks,3,6,9
+Speed Skaters,3,6,9
+Lateral Jumps,3.25,6.5,9.75
+Jumping Jacks,4,8,12
+Plyo Push-ups,3.5,7,10.5
+Battle Ropes,3.75,7.5,11.25
+Box Jumps,4.25,8.5,12.75
+Yoga,1.5,3,4.5
+Pilates,1.75,3.5,5.25
+Stretching,1.25,2.5,3.75
+Foam Rolling,1,2,3
+Dynamic Warm-Up,1.5,3,4.5
+Tai Chi,1.5,3,4.5
+Mobility Drills,1.4,2.8,4.2
+Sun Salutations,1.65,3.3,4.95
+Cat-Cow Stretch,1,2,3
+Child's Pose,0.9,1.8,2.7
+Basketball,3.25,6.5,9.75
+Football,3.5,7,10.5
+Tennis,3.65,7.3,10.95
+Badminton,3,6,9
+Table Tennis,2,4,6
+Cricket,2.25,4.5,6.75
+Volleyball,2,4,6
+Handball,3.9,7.8,11.7
+Martial Arts,4.5,9,13.5
+Wrestling,4,8,12
